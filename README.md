@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=300&color=gradient&text=Vitor%20Santos&fontColor=000000">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=100&color=gradient&text=Vitor%20Santos&fontColor=000000">
 </h1>
 
 <p aling="center">
