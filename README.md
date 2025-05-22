@@ -48,10 +48,6 @@ Estou comprometido em construir uma carreira sólida na área de TI, com foco em
   <a href="https://www.credly.com/badges/45b871e7-402d-410d-b398-b7277937c95a/linked_in_profile" target="_blank">
     <img src="https://images.credly.com/size/680x680/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" alt="AWS Academy Graduate - AWS Academy Cloud Foundations" height="100"/>
   </a>
- 
-  <a href="https://www.credly.com/badges/2bb9ebcc-ab99-4013-83e7-9f283811ae8a/linked_in_profile" target="_blank">
-    <img src="https://images.credly.com/size/680x680/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" alt="AWS Academy Graduate - AWS Academy Cloud Developing" height="100"/>
-  </a>
 </p>
 
 ---
