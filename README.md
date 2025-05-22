@@ -65,11 +65,13 @@ Estou comprometido em construir uma carreira sólida na área de TI, com foco em
 ## Tech Stack
 
 <p align="center">
+  <img src="https://img.shields.io/badge/-t?style=flat&logo=cisco&logoSize=1000&color=black" height="48">
   <img src="https://skillicons.dev/icons?i=linux,debian,bash,vim,windows,powershell,aws">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff">
+  
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff" height="30">
 </p>
 
 ## 📫 Contato
